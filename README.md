@@ -4,4 +4,3 @@ This is an exercise for my university course "Software Design". I developed a we
 ## How to use
 - import this project in your Java Environment
 - set the first two fields of the two classes with your personal info
-- run 
